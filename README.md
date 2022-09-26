@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GOOSTRH
 - 👀 I’m interested in coding , gaming , and developing 
-- 🌱 I’m currently learning c code basic things and python discord bot
-- 💞️ I’m looking to collaborate on developing a game , studying c code 
+- 🌱 I’m currently developing a minecraft plugin
+- 💞️ I’m looking to collaborate on developing a game , making a minecraft server (plugin development
 - 📫 How to reach me quanzhiwan@gmail.com
 
 <!---
