@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GOOSTRH
-- 👀 I’m interested in coding , gaming , and developing 
-- 🌱 I’m currently studying bunch of stuff, but no project involved. planning to learn about LLM too
-- 💞️ I’m looking to collaborate on developing a game , making a minecraft server (plugin development, webpage, app, etc
+- 👀 I’m interested in developing all sorts of stuff in different areas
+- 🌱 I’m currently studying a bunch of stuff, but currently involved in no project. planning to learn about LLM too
+- 💞️ I’m looking to collaborate on developing for anything, hmu
 - 📫 How to reach me: quanzhiwan@gmail.com
 
 <!---
